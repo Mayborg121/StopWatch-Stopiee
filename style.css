@@ -392,7 +392,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 30px 18px 18px 18px;
+    padding: 27px 18px 18px 18px;
     font-size: 2.9rem;
     font-family: monospace;
     color: hsl(0, 0%, 100%);
