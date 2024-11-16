@@ -6,7 +6,7 @@ body{
     display: flex ;
     flex-direction: column;
     align-items: center;
-    background-image: url(/img/fullbg.jpg);
+    background-image: url("https://github.com/Mayborg121/StopWatch-Stopiee/blob/main/img/bg.jpg?raw=true");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
