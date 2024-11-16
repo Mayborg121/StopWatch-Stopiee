@@ -169,7 +169,7 @@ body{
     
 }
 
-@media(max-width: 811px){
+@media(max-aspect-ratio: 4/5){
 
 html{height: 100%;}
 
