@@ -345,7 +345,7 @@ body{
    
 }
 
-@media(max-width: 385px){
+@media(max-aspect-ratio: 9/16){
 
 html{height: 100%;}
 body{
