@@ -10,6 +10,7 @@ In the rhythm of time, **StopWatch-Stopiee** stands as a silent companion, count
 - Time your moments with start, stop, and reset controls.
 - Enjoy motivational quotes with each stop.
 - Sleek, responsive design that adapts to your rhythm.
+- Keyboard controls work too,(pause/play : Spacebar ; reset : Shift/Backspace).
 
 ## Live Demo
 
