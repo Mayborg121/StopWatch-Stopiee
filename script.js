@@ -1,6 +1,6 @@
 const time = document.getElementById("time");
 const milisec = document.getElementById("milisec");
-const quotesurl = 'https://raw.githubusercontent.com/Mayborg121/QuotesFileHostin/refs/heads/main/quotesjsn.json';
+const quotesurl = 'https://raw.githubusercontent.com/Mayborg121/QuotesFileHostin/refs/heads/main/quotes.json';
 let quote = document.getElementById("quote");
 let author = document.getElementById("author");
 let quotes;
